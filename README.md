@@ -33,6 +33,8 @@ The project followed a rigorous data workflow:
 | View 1 | View 2 | View 3 |
 | :---: | :---: | :---: |
 | ![Dashboard 1](1.jpg) | ![Dashboard 2](2.jpg) | ![Dashboard 3](3.jpg) |
+| **View 4** | **View 5** | **View 6** |
+| ![Dashboard 4](4.jpg) | ![Dashboard 5](5.jpg) | ![Dashboard 6](6.jpg) |
 
 ## 📑 Project Documentation
 For technical deep-dives and executive summaries, download the reports below:
